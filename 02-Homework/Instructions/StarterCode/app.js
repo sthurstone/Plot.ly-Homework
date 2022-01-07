@@ -128,7 +128,7 @@ function init() {
 
 // // initialize
 
-    init();
+console.log(init);
 
     })
 };
