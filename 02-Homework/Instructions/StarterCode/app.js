@@ -1,6 +1,4 @@
-//Plot.ly Homework - Belly Button Biodiversity
-
-//PLOTLY -- Belly Button BioDiversity Homework, 11 
+//PLOT.LY -- Belly Button BioDiversity Homework, 11 
 
 //Use the D3 library to read in samples.json
 
